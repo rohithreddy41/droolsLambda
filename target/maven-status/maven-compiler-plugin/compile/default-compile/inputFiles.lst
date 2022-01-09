@@ -1,0 +1,14 @@
+/home/vmuser1/develop/misc/droolsLambda/src/main/java/com/baeldung/drools/model/Product.java
+/home/vmuser1/develop/misc/droolsLambda/src/main/java/com/baeldung/drools/optaplanner/CourseSchedule.java
+/home/vmuser1/develop/misc/droolsLambda/src/main/java/com/baeldung/drools/optaplanner/Lecture.java
+/home/vmuser1/develop/misc/droolsLambda/src/main/java/com/baeldung/drools/lambda/LambdaHandler.java
+/home/vmuser1/develop/misc/droolsLambda/src/main/java/com/baeldung/drools/service/ApplicantService.java
+/home/vmuser1/develop/misc/droolsLambda/src/main/java/com/baeldung/drools/model/Applicant.java
+/home/vmuser1/develop/misc/droolsLambda/src/main/java/com/baeldung/drools/model/Result.java
+/home/vmuser1/develop/misc/droolsLambda/src/main/java/com/baeldung/drools/service/ProductService.java
+/home/vmuser1/develop/misc/droolsLambda/src/main/java/com/baeldung/drools/model/Customer.java
+/home/vmuser1/develop/misc/droolsLambda/src/main/java/com/baeldung/drools/model/SuggestedRole.java
+/home/vmuser1/develop/misc/droolsLambda/src/main/java/com/baeldung/drools/backward_chaining/BackwardChaining.java
+/home/vmuser1/develop/misc/droolsLambda/src/main/java/com/baeldung/drools/config/DroolsBeanFactory.java
+/home/vmuser1/develop/misc/droolsLambda/src/main/java/com/baeldung/drools/optaplanner/ScoreCalculator.java
+/home/vmuser1/develop/misc/droolsLambda/src/main/java/com/baeldung/drools/model/Fact.java

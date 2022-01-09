@@ -1,0 +1,16 @@
+com/baeldung/drools/model/Applicant.class
+com/baeldung/drools/model/Product.class
+com/baeldung/drools/lambda/LambdaHandler.class
+com/baeldung/drools/optaplanner/CourseSchedule.class
+com/baeldung/drools/config/DroolsBeanFactory$1.class
+com/baeldung/drools/service/ApplicantService.class
+com/baeldung/drools/model/SuggestedRole.class
+com/baeldung/drools/model/Result.class
+com/baeldung/drools/config/DroolsBeanFactory.class
+com/baeldung/drools/optaplanner/Lecture.class
+com/baeldung/drools/model/Fact.class
+com/baeldung/drools/model/Customer$CustomerType.class
+com/baeldung/drools/optaplanner/ScoreCalculator.class
+com/baeldung/drools/service/ProductService.class
+com/baeldung/drools/backward_chaining/BackwardChaining.class
+com/baeldung/drools/model/Customer.class

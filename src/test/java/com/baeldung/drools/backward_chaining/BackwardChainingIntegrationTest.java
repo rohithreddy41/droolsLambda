@@ -1,5 +1,6 @@
 package com.baeldung.drools.backward_chaining;
 
+
 import org.junit.Before;
 import org.junit.Test;
 import org.kie.api.runtime.KieSession;
@@ -8,7 +9,8 @@ import com.baeldung.drools.config.DroolsBeanFactory;
 import com.baeldung.drools.model.Fact;
 import com.baeldung.drools.model.Result;
 
-import static junit.framework.TestCase.assertEquals;
+import static org.junit.Assert.assertEquals;
+
 
 public class BackwardChainingIntegrationTest {
     private Result result;

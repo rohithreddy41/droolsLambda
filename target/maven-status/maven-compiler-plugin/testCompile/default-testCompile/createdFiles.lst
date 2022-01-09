@@ -1,0 +1,4 @@
+com/baeldung/drools/service/ApplicantServiceIntegrationTest.class
+com/baeldung/drools/service/DiscountExcelIntegrationTest.class
+com/baeldung/drools/service/ProductServiceIntegrationTest.class
+com/baeldung/drools/backward_chaining/BackwardChainingIntegrationTest.class
