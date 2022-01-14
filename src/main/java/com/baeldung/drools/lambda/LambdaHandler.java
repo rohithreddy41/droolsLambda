@@ -3,16 +3,10 @@ package com.baeldung.drools.lambda;
 import com.amazonaws.services.lambda.runtime.Context;
 import com.amazonaws.services.lambda.runtime.LambdaLogger;
 import com.amazonaws.services.lambda.runtime.RequestHandler;
-import com.amazonaws.services.lambda.runtime.events.ScheduledEvent;
 import com.baeldung.drools.config.DroolsBeanFactory;
 import com.baeldung.drools.model.Applicant;
 import com.baeldung.drools.model.SuggestedRole;
 import org.kie.api.runtime.KieSession;
-
-
-import java.io.IOException;
-import java.util.List;
-import java.util.Map;
 
 
 public class LambdaHandler implements RequestHandler<Applicant, String> {

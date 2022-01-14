@@ -14,6 +14,9 @@ public class Applicant {
         this.experienceInYears = experienceInYears;
     }
 
+    public Applicant() {
+    }
+
     public String getName() {
         return name;
     }
